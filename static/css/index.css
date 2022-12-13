@@ -1,5 +1,5 @@
 body{
-    background-color: cyan;
+    background-color: #00ffff61;
 }
 
 .card-title{
@@ -8,8 +8,25 @@ body{
 
 .w_box{
     margin-top: -320px;
+    width: 33%;
+    height: 50%;
 }
 
 .w_box1{
     margin-top: -700px;
+    width: 33%;
+    height: 50%;
+}
+
+.wheather-box{
+    margin-right: 35px;
+    border-radius: 7px;
+    text-align: center;
+    color: #5e8f9b;
+    font-weight: bold;
+    border: 2px solid #00ffdccc;
+}
+
+.temp{
+    font-weight: 400;
 }
